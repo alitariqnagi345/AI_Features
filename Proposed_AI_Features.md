@@ -1,21 +1,21 @@
 - Patient Monitoring (AI Resident Intelligence)
- - Discuss this
- - understand the resident over time
+  - Discuss this
+  - understand the resident over time
 
 
 - Ask AI about the patients - Doesnt have to go through all the history
- - AI should show exact fields.
-   - Transparency  
- - AI checks the history 
- - Clarififies any confusion
- - A nurse could ask:
-   - “When was John's last fall?”
-   - “Has Anna lost weight recently?”
-   -  “Show me Mary's blood pressure trend.”
-   - “What changed since my last shift?”
-   - “Why was Robert transferred to hospital?”
-   - “Summarize behavioral incidents this month.”
-   - Suggesions for the next shift
+  - AI should show exact fields.
+    - Transparency  
+  - AI checks the history 
+  - Clarififies any confusion
+  - A nurse could ask:
+    - “When was John's last fall?”
+    - “Has Anna lost weight recently?”
+    -  “Show me Mary's blood pressure trend.”
+    - “What changed since my last shift?”
+    - “Why was Robert transferred to hospital?”
+    - “Summarize behavioral incidents this month.”
+    - Suggesions for the next shift
 
 Alerts:
  - Critical, Major, Minor
