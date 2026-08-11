@@ -1,0 +1,41 @@
+- voize’s AI converts their speech into structured EHR data entries. 
+
+Missing Information
+- more complete documentation,
+
+
+
+Basic features should be mature----
+International Clinic Settings
+- handles everything from Southern accents to non-native English speakers.
+
+- Our models are continuously learning from actual usage, 
+
+
+Acceptance and review:
+- caregivers can always review and edit notes before they're finalized.
+
+Integration with EHR:
+-  integrates directly with all major EHRs for skilled nursing and long-term care facilities. Integration is bi-directional.
+
+
+ - clean up grammatical issues, 
+
+- maps your speech to fixed data fields. 
+
+- It does not add or assume any information.
+
+
+- iPhone or Android from the last 5 years.
+
+- works offline if the wifi goes down or is spotty.
+
+- Phones are owned and managed by the facility, and voize works with your IT department to set up proper Mobile Device Management (MDM). 
+This means you can ensure the phones aren’t used for other purposes, and can’t be used off-site or otherwise grow legs.
+
+- Is voize HIPAA compliant, and do you sign a Business Associate Agreement (BAA)?
+Yes. voize acts as a Business Associate under HIPAA when providing services to US healthcare customers, and we sign a Business Associate Agreement with every covered entity before processing any Protected Health Information (PHI).
+
+Our standard US deployment is designed so that PHI stays where care happens, not in our cloud: speech recognition and documentation are processed on the caregiver's device, and the structured documentation is transmitted directly into the customer's EHR. Where US backend services are required (e.g. device and user management), they run in regions chosen to align with HIPAA expectations.
+
+Our internal HIPAA program covers the Privacy, Security, and Breach Notification Rules, including administrative, physical, and technical safeguards (access controls, audit logging, encryption, workforce training, incident response). Our BAA with AWS as our underlying cloud provider has been executed.
