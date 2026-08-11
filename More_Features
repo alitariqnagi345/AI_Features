@@ -17,8 +17,16 @@
    - Suggesions for the next shift
 
 
-
 Alerts:
- - Doesn't have to read 
+ - Critical, Major, Minor
+ - Resident has had three falls within 14 days.
+ - Fluid intake has been below baseline for three days.
+
+
+AI Management Intelligence:
+ - No of ciritcal ALerts not handled
+ - Number of residents falling
+ - Number of Incidents
+ - 
 
 
